@@ -56,3 +56,5 @@ function capWord(str){
     let readySentence = first + str.slice(1) + '. ';
     return readySentence;
 }
+
+btn.style.fontSize = "18px";
